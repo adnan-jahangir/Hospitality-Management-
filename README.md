@@ -23,7 +23,7 @@ This is a dynamic Excel dashboard built for managing and analyzing hotel booking
 ## 🖼 Screenshot
 
 <img width="602" alt="Hospitality Management Dashboard" src="https://github.com/user-attachments/assets/b69750e0-cc9f-4f55-a4b7-f7fafcff7b98" />
-]
+
 Dashboard-preview.png
 
 ## 👨‍💻 Author
