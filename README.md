@@ -3,7 +3,8 @@
 This is a dynamic Excel dashboard built for managing and analyzing hotel booking data. It includes key KPIs and visualizations to help track performance and bookings efficiently.
 
 ## 📁 Files
-- Hotel Management Booking.xlsx – Main Excel dashboard file
+- `Hotel Management Booking .xlsx` – Main Excel dashboard file
+
 
 ## 🔍 Dashboard Features
 - Total bookings, revenue, and room occupancy rate
@@ -22,7 +23,8 @@ This is a dynamic Excel dashboard built for managing and analyzing hotel booking
 ## 🖼 Screenshot
 
 <img width="602" alt="Hospitality Management Dashboard" src="https://github.com/user-attachments/assets/b69750e0-cc9f-4f55-a4b7-f7fafcff7b98" />
-]Dashboard-preview.png
+]
+Dashboard-preview.png
 
 ## 👨‍💻 Author
 **Adnan Jahangir**  
